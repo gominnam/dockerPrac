@@ -7,3 +7,8 @@ https://docs.docker.com/desktop/windows/install/
 
 ## 도커 
 docker run --name test-nginx -d -p 8080:80 nginx:latest
+
+
+-------------
+
+## Node.js 설치 
